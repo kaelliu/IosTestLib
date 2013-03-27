@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kTestData>
+    <idle>1,8,50,50</idle>
+    <standup>9,16,50,50</standup>
+    <standleft>17,24,50,50</standleft>
+    <standdown>25,32,50,50</standdown>
+</kTestData>
